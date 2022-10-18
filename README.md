@@ -4,3 +4,7 @@ Monorepo é simplesmente a definição de arquitetura em que você utiliza apena
 ## Como está dividido a estrutura deste projeto
 * __bytebank__
     * Projeto para auxilio no aprendizado e treinamento de Orientação a Objetos utilizando a linguagem JAVA.
+* __LPOO_Prova_1__
+    * Correção dos programas solicitados para serem feitos utilizando a linguagem JAVA na 1ª PROVA
+* __Heranca__
+    * Código feito em JAVA para treinamento do tópico de Herança, Reescrita e Polimosfismo
