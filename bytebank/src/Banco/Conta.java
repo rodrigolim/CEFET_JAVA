@@ -1,14 +1,13 @@
+package Banco;
 public class Conta {
 
+	private int id;
 	private double saldo;
 	private int agencia;
 	private int numero;
-	private Cliente titular;
-	private static int total = 0;
+	private Cliente titular;	
 
 	public Conta(int agencia, int numero) {
-		Conta.total++;
-		System.out.println("O total de contas é " + Conta.total);
 		this.agencia = agencia;
 		this.numero = numero;
 		this.saldo = 100;
@@ -73,8 +72,25 @@ public class Conta {
 		return this.titular;
 	}
 
-	public static int getTotal() {
-		return Conta.total;
+	public int getId() {
+		return id;
 	}
 
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public void setSaldo(double saldo) {
+		this.saldo = saldo;
+	}
+
+	@Override
+	public String toString() {
+		return "Conta [id=" + id + ", saldo=" + saldo + ", agencia=" + agencia + ", numero=" + numero + ", titular="
+				+ titular + "]";
+	}
+
+	
+
+	
 }

@@ -1,3 +1,6 @@
+package Test;
+import Banco.Conta;
+
 public class CriaConta {
 
     public static void main(String[] args) {
