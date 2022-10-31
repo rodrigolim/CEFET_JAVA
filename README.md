@@ -6,5 +6,8 @@ Monorepo é simplesmente a definição de arquitetura em que você utiliza apena
     * Projeto para auxilio no aprendizado e treinamento de Orientação a Objetos utilizando a linguagem JAVA.
 * __LPOO_Prova_1__
     * Correção dos programas solicitados para serem feitos utilizando a linguagem JAVA na 1ª PROVA
+* __LPOO_Trabalho_1__
+    * Correção dos programas solicitados para serem feitos utilizando a linguagem JAVA no 1ª TRABALHO
 * __Heranca__
-    * Código feito em JAVA para treinamento do tópico de Herança, Reescrita e Polimosfismo
+    * Código feito em JAVA para treinamento do tópico de Herança, Reescrita e Polimosfismo 
+    
