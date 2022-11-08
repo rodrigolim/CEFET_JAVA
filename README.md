@@ -10,4 +10,8 @@ Monorepo é simplesmente a definição de arquitetura em que você utiliza apena
     * Correção dos programas solicitados para serem feitos utilizando a linguagem JAVA no 1ª TRABALHO
 * __Heranca__
     * Código feito em JAVA para treinamento do tópico de Herança, Reescrita e Polimosfismo 
+* __CRUD__
+    * Código feito em JAVA para treinamento e simulação de um CRUD(SEM parte visual)
+* __CRUD_swing__
+    * Código feito em JAVA para treinamento e simulação de um CRUD(COM parte visual)
     
